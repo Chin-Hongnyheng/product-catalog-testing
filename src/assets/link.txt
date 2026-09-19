@@ -1,0 +1,5 @@
+https://github.com/Chin-Hongnyheng/product-catalog-testing.git
+
+what tsc flagged when you deliberately passed price as a string.
+Type 'string' is not assignable to type 'number'.
+App.tsx(9, 3): The expected type comes from property 'price' which is declared here on type 'Product'
